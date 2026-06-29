@@ -1,2 +1,5 @@
 valami valami teszt
 ez pedig egy git UI change, amit pullolni fogunk
+
+Itt pedig a GUI-ban fogok módosítást 
+végezni maj.
